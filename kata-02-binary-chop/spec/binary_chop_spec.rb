@@ -1,6 +1,6 @@
 require 'require_all'
 require 'rspec'
-require_rel '../'
+require_rel '../binary_chop'
 
 describe BinaryChop do
   describe '#chop' do
